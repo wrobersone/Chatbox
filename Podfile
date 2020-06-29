@@ -7,4 +7,8 @@ target 'Chatbox' do
 
   # Pods for Chatbox
 
+pod 'Firebase/Core'
+pod 'Firebase/Auth'
+pod 'Firebase/Database'
+
 end
