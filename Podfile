@@ -7,8 +7,15 @@ target 'Chatbox' do
 
   # Pods for Chatbox
 
+# Firebase
 pod 'Firebase/Core'
 pod 'Firebase/Auth'
 pod 'Firebase/Database'
 
+# Facebook
+pod 'FBSDKLoginKit'
+
+# Google
+pod 'GoogleSignIn'
+ 
 end
